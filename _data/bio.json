@@ -49,81 +49,30 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2025)",
       "studyType": "B.B.A",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2019-08-21",
+      "endDate": "2025-05-10",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "UH Information TEchnology Services",
+      "position": "IT Technician",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2022-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "I work as a technician to assist staff and faculty of UH Manoa with any technical problems they may experience. Additionally, while not on tech jobs, I will be answering emails and phone calls directed at the ITS Help Desk. ",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Deployment of new computers, Network Troubleshooting, Setting up VPN's, Mapping Network Drives, Printer configuration."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "company": "Porsche of Hawaii",
+      "position": "Technician Assistant",
+      "website": "https://www.porschehawaii.com/",
+      "startDate": "2017-05",
+      "endDate": "2018-08",
+      "summary": "Interned at Porsche of Hawaii as part of a school program. Was asked to continue to work through the summer as a paid employee. In this position, I was directly under the lead head technician helping with car repairs, oil changes, shop maintenance, inventory, and providing customer service."
     }
   ]
 }
