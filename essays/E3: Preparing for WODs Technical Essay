@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "E1 Technical Essay"
+title: "E3 Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-12
+date: 2023-09-28
 published: true
 labels:
   - E3
 ---
 
 
-Starting with the workouts of the day was tough. Before I started, I already had experience in HTML. Because of this prior experience, I was confident I could finish this exercise quickly. Turns out I was very wrong. Initially, I got the basic layout of the website done with the table of contents, the introduction, and the history of all the different browsers. Then, it came to formatting and inserting pictures. When I got to this, I hit a brick wall. I thought I could get through this without reading the HTML documentation, and I was wrong. By this time, I was way over the 25-minute DNF time. I knew I wasn't getting anywhere by not knowing how to do this properly, so now I read over all the documentation for HTML, seeing how to do this properly. After reading through the documentation, it clicked in my mind how to format, set everything up, and add pictures.
-Additionally, looking through the documentation also reminded me of elements and tools I can use within HTML to make stuff easier on myself, like the boilerplate. Having all this knowledge, I attempted the first Workout of the Day. I knew I could complete it this time without getting outside help, but again, I finished outside of the DNF time. But, at least I finished. Going through this a couple more times, I found it easier and easier. I was now understanding why I'm putting this element here or this header here. Now, I learned from my lesson that even though I have some knowledge of HTML, reinforcing that with more knowledge allowed me to accomplish this WOD. Initially, going through the workout of the day felt frustrating, but in the end, it was gratifying. You felt like you got a lot of knowledge and benefits out of it, and it helped me out.
-
-That doesn't mean learning more is terrible if you already know HTML or are confident in your abilities. I will admit that in my mind, I thought I knew more than I did about it, and from that, I got stuck at something I thought I knew how to do. Learning more is always a good thing and will significantly help you out.
+This week's WOD was challenging but enjoyable. This workout of the week was called Invoice One. This WOD aimed to create a sales receipt containing at least five different products, and we needed to use expressions and variables to compute the various required values dynamically and not use hard coding. At face value, it didn't seem that bad, but going into it, I discovered it was more difficult than I thought. This week's WOD, called "Invoice1," was challenging and enjoyable. This task aimed to create a sales receipt containing at least five products, utilizing expressions and variables for dynamic computation, avoiding hard coding. Initially, it seemed manageable, but diving into it proved more complex than anticipated.
+I was tempted to consult the screencast immediately but decided to tackle it independently. The first hurdle was understanding how the table functioned. It seemed intricate at first, but after experimentation, it became clearer. This understanding was crucial for handling my product data and ultimately figuring out the WOD.
+My key takeaway is grasping the essentials— in this case, the table. Attempting the WOD without this understanding led to stumbling and little progress. So, the lesson learned is to research first, even if there's a notion of figuring it out eventually. It's always beneficial to RTFM.
+Comparatively, rather than diving in headfirst, I delved more into research for this WOD than previous ones. Although time-consuming at the start, this approach provided me with a solid foundation, making the process smoother. Moving forward, I'll prioritize understanding the fundamentals before embarking on the task, as this method proved more effective and enlightening.
