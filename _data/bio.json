@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Scott Garland",
+    "label": "Shidler Undegraduate",
+    "picture": "https://avatars.githubusercontent.com/u/143057813?v=4",
+    "email": "scott997@hawaii.edu",
+    "phone": "808-636-0407",
+    "website": "https://scottg997.github.io/",
+    "summary": "I am currently studying to get my BBA in management information systems from the Shidler School of Business. I expect to graduate in 2025.",
+    "location": {
+      "address": "",
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "scottg997",
+        "url": "http://github.com/scottg997"
+      },
+      {
+        "network": "linkedin",
+        "username": "Scott Garland",
+        "url": "https://www.linkedin.com/in/scott-garland-5429aa227/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Animals"
+    },
+    {
+      "name": "Traveling"
+    },
+    {
+      "name": "Swimming"
+    },
+    {
+      "name": "Gaming"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.B.A",
+      "startDate": "2019-08-21",
+      "endDate": "2025-05-10",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Information Technology Services",
+      "position": "IT Technician",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "summary": "I work as a technician to assist staff and faculty of UH Manoa with any technical problems they may experience. Additionally, while not on tech jobs, I will be answering emails and phone calls directed at the ITS Help Desk. ",
+      "highlights": [
+        "Deployment of new computers, Network Troubleshooting, Setting up VPN's, Mapping Network Drives, Printer configuration."
+      ]
+    },
+    {
+      "company": "Porsche of Hawaii",
+      "position": "Technician Assistant",
+      "website": "https://www.porschehawaii.com/",
+      "startDate": "2017-05",
+      "endDate": "2018-08",
+      "summary": "Interned at Porsche of Hawaii as part of a school program. Was asked to continue to work through the summer as a paid employee. In this position, I was directly under the lead head technician helping with car repairs, oil changes, shop maintenance, inventory, and providing customer service."
+    }
+  ]
+}
